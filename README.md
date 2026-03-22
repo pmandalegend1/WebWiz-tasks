@@ -8,6 +8,7 @@ This repository contains all tasks assigned as part of the WebWiz club (AI/ML te
 ## Structure
 ```
 WebWiz-tasks/
-├── task-1/
-└── task-2/
+├── induction-task/    ← Spam Classifier
+├── task-1/            ← Iris EDA
+└── task-2/            ← Housing Price Predictor
 ```
