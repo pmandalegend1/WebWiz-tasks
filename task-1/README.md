@@ -1,12 +1,4 @@
 # EDA_for_IRIS_Dataset_WEBWIZ
-
----
-
-# Iris Dataset — Exploratory Data Analysis
-
-**Name:** Parijat Mandal
-**Roll No:** 125cs0011
-
 ---
 
 ## What this is
