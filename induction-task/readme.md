@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/26169206/README.2.md)
 # Spam Classifier for Emails / Text Messages
 
 ## Update
